@@ -9,5 +9,5 @@ Retos de programación:
 Problemas:
 - Soluciones a los problemas 4.3.1, 4.3.2, 4.4.1 y 4.4.2.
 - Discusión de los ejercicios 4.5.2 y 4.5.3.
-- 
+
 Librerias necesarias: numpy y plot.
